@@ -1,0 +1,6 @@
+{
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "audioCues.diffLineDeleted": "off",
+    "audioCues.diffLineInserted": "off"
+}
